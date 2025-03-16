@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>GreenRoc的博客</title>
   
   
   <link href="http://hexo.45zhongxue.online/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://hexo.45zhongxue.online/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>GreenRoc</name>
     
   </author>
   
