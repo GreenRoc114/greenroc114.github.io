@@ -1,3 +1,5 @@
+http://hexo.45zhongxue.online/categories/index.html
+http://hexo.45zhongxue.online/tags/index.html
 http://hexo.45zhongxue.online/2025/04/11/post-1/
 http://hexo.45zhongxue.online/2025/03/16/test/
 http://hexo.45zhongxue.online/2025/03/14/hello-world/
